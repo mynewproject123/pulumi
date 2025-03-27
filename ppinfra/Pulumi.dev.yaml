@@ -1,5 +1,5 @@
 config:
-  aws:region: us-west-2
-  myworkshop:errorDocument: error.html
-  myworkshop:indexDocument: index.html
-  myworkshop:path: ./www
+  aws:region: ca-central-1
+  newpulumiproject1:errorDocument: error.html
+  newpulumiproject1:indexDocument: index.html
+  newpulumiproject1:path: ./www
