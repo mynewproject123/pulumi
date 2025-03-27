@@ -1,0 +1,5 @@
+config:
+  aws:region: ca-central-1
+  newpulumiproject:errorDocument: error.html
+  newpulumiproject:indexDocument: index.html
+  newpulumiproject:path: ./www
