@@ -23,7 +23,8 @@ jobs:
         working-directory: ./ppinfra
         run: npm install
 
-      - uses: pulumi/actions@v5
+      - name: Run Pulumi up
+        uses: pulumi/actions@v5
         with:
           command: up
           stack-name: dev
