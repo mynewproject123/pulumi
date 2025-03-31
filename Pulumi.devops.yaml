@@ -1,0 +1,5 @@
+config:
+  aws:region: ca-central-1
+  devops-pulumi-project:errorDocument: error.html
+  devops-pulumi-project:indexDocument: index.html
+  devops-pulumi-project:path: ./www
